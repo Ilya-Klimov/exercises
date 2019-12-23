@@ -4,7 +4,4 @@ content content content
 content content content
 content content content
 
-content content content2
-content content content2
-content content content2
-content content content2
+content content content
